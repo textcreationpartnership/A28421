@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody newes from St. Albans being a perfect relation of a horrible murder committed on Wednesday last, upon Mris Bass, a widdow living at the sign of the Green-Tree in the said town ... : also, a barbarous and inhumane murder, committed by a farmer near Colchester, upon his wife ... : likewise a cruel and divellish plot discovered at Wem in Shropshire by Mr. Page, a surgion, with the manner how the chief actor was taken, and committed by the mayor of Shrewsbury ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28421</idno>
+            <idno type="STC">Wing B3275</idno>
+            <idno type="STC">ESTC R3162</idno>
+            <idno type="EEBO-CITATION">12185598</idno>
+            <idno type="OCLC">ocm 12185598</idno>
+            <idno type="VID">55777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 122:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody newes from St. Albans being a perfect relation of a horrible murder committed on Wednesday last, upon Mris Bass, a widdow living at the sign of the Green-Tree in the said town ... : also, a barbarous and inhumane murder, committed by a farmer near Colchester, upon his wife ... : likewise a cruel and divellish plot discovered at Wem in Shropshire by Mr. Page, a surgion, with the manner how the chief actor was taken, and committed by the mayor of Shrewsbury ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="8" facs="tcp:55777:1"/>
+            <pb facs="tcp:55777:1" rendition="simple:additions"/>
+            <p>BLOODY NEWES FROM St. <hi>ALBANS.</hi> BEING, A perfect Relation of a horrible Murder Committed on <hi>Wedneſday</hi> laſt, upon Mris <hi>Baſs</hi> a Widdow living at the Sign of the <hi>Green-Tree</hi> in the ſaid Town; and how ſhe was moſt cruelly torn, mangled and diſmembred, her brains being daſht out againſt the walls in the room where ſhe was murthered. Since which ſome perſons are apprehended for the ſame, and committed to <hi>Hartford</hi> Goal. As is averred by Mr. <hi>Gunter,</hi> Gent, Mr. <hi>Younger,</hi> Mr. <hi>New,</hi> Mr. <hi>Tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owgood</hi> the Carrier, and ſeveral other Gentlemen of St. <hi>Albans,</hi> who now lodg at the <hi>Bell</hi> in <hi>Alderſgate-ſtreet</hi> and will witneſs the truth.</p>
+            <p>Alſo, a barbarous and inhumane murder, committed by a Farmer near <hi>Colcheſter,</hi> upon his wife, how he ſtopt her Mouth, ſtuck an Awle in her Head and ſowed up her Privities, for which being diſcovered by the Crowner and his own Guilty Conſcience, he was try'd at <hi>Chelnſ<g ref="char:EOLhyphen"/>ford,</hi> condemned and executed, this laſt Aſſizes.</p>
+            <p>Likewiſe a cruel and Divelliſh Plot diſcovered at <hi>Wem</hi> in <hi>Shropſhire</hi> by Mr. <hi>Page a Surgion,</hi> with the manner how the chief Actor was ta<g ref="char:EOLhyphen"/>ken, and committed by the Mayor of <hi>Shrewsbury.</hi>
+            </p>
+            <p>
+               <hi>The is confirmed by ſeveral Gentlemen of</hi> Shrewsbury, <hi>and alſo by Mr.</hi> Aſhley, <hi>a Gentleman living near</hi> Cripple-gate.</p>
+            <p>
+               <hi>LONDON, Printed for</hi> John Johnſon, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:55777:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:55777:2"/>
+            <head>BLOUDY NEWES FROM St. ALBANS.</head>
+            <head type="sub">Sent in a Letter from thence by a Gentleman of quality, to a friend of his in <hi>London.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>HAving lately received many Courteſies from you both by intelligence in manuſcript, and alſo in thoſe printed Occurrences I have daily been furniſhed with, by your induſtrious and diligent care, ſince I laſt was in your company at <hi>London;</hi> in which papers have been ſome things miraculous and ſtrange to all who have peruſed them, Wherefore I thought good (having an op<g ref="char:EOLhyphen"/>portunity) in part of requital, to gratifie your courteſie by ſending you true account of a lamentable murther commit<g ref="char:EOLhyphen"/>ted lately in this Town, the exact Narrative of which is as followeth, <hi>viz.</hi>
+                  </p>
+                  <pb facs="tcp:55777:3"/>
+                  <p>The Widdow <hi>Baſs,</hi> of whom I write this ſad and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>chri<g ref="char:EOLhyphen"/>ſtian act, was a luſty Hoſtis who kept a houſe of entertain<g ref="char:EOLhyphen"/>ment, and lived gallantly at the Sign of the <hi>Green-man</hi> in this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>own.</p>
+                  <p>She was a woman that was an early riſer, her conſtant hour being four in the morning.</p>
+                  <p>But this laſt week proved a black week and clouded the glory of this luſty Dame: for on <hi>Wedneſday</hi> in the morning ſhe riſe early, according to her former cuſtome, to attend on the Company then in her houſe, and departing from the room. where they were, about half an hour after miſſing her ſo long, they ſought after her, and could not hear any thing of her.</p>
+                  <p>At length coming to the room where ſhe was murthered, on a ſudden they were ſmitten with amazement, diſcovering th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſhe was barbarouſly maſſacred, her brains and ſome fleſh ſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ing againſt the wall round the ſaid room.</p>
+                  <p>Since this the whole Town are in great trouble, ſeeking daily how to find out the Authors of this cruelty, and ſeveral neighbours reſort thither, and ſome do conjecture that it was done with a Hatchet, others that a left-handed man muſt be the Actor, but the truth cannot as yet be known; for her Brains are ſo divided and fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ned to the Walls, that it doth work great aſtoniſhment in the hearts of all that be<g ref="char:EOLhyphen"/>hold it.</p>
+                  <p>There are ſome taken upon ſuſpition, but upon their ex<g ref="char:EOLhyphen"/>amination confeſs nothing, utterly denying that they have any hand in this bloody and cruel Tragedy;</p>
+                  <p>Notwithſtanding, it is beleived that ſhe was a woman well to live in the world, and that ſhe had great flore of means, which as they do conjecture is the chief cauſe why this barba<g ref="char:EOLhyphen"/>rous and unchriſtian Murther was committed; it being in<g ref="char:EOLhyphen"/>deed more likely to be acted for lucre rather then any thing of envy or malice, thus having given you a full account of
+<pb n="4" facs="tcp:55777:3"/>what hath b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> thus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> theſe parts.</p>
+                  <p>What ſhall hereafter happen here you need not trouble any other in, for no paſſage ſhall here fall out worthy your peruſal, but I ſhall (according to your deſire inſert it, Ha<g ref="char:EOLhyphen"/>ving nothing more to trouble you at preſent, or worth your obſervation, time being more haſty then my opportunity, I remaine</p>
+                  <closer>
+                     <signed>Yours to ſerve you, whilſt R. W.</signed>
+                     <date>
+                        <hi>Auguſt,</hi> 11. 1661.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>For further confirmation of this ſad and woful murther theſe perſons following were reſident in the Town when it was committed.</p>
+            <p>For thus it is, after receipt of this Letter late yeſterday being <hi>Tueſday</hi> Mr. <hi>Gunter</hi> gentleman, Mr. <hi>Younger</hi> a School-maſter living in the Abby at the ſaid Town, and Mr. <hi>Thor<g ref="char:EOLhyphen"/>rowgood</hi> the Carrier, who not only juſtified, but alſo gave an exact account thereof, and will confirm the ſame, they being at preſent in <hi>London,</hi> and ſome of them lodging at the <hi>Bell</hi> in <hi>Alderſgare-ſtreet.</hi>
+            </p>
+            <p>A ſad accident fell out this week at <hi>Weſtminſter,</hi> for yeſter<g ref="char:EOLhyphen"/>day they went out together very good friends, took Coach and by the way ſome difference aroſe, and the words did not decide the controverſie, for after they had a while treated it came to blowes, and they went out of the Coach, where they (though unfriendly) yet with noble ſpirits aſſaulted each other, both being wounded, but the one of them in a ſhort time gave up the Ghoſt.</p>
+            <pb n="4" facs="tcp:55777:4"/>
+            <p>Here followes a true and exact account of that ſtrange, and indeed wonderfull Scare-Crow which happened to the Country people at <hi>VVe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Pariſh in <hi>Shr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p-ſhire, viz.</hi>
+            </p>
+            <p>It happened to the aforeſaid Pariſh that their dwelt one Waddow <hi>VVeſton</hi> with her Kinſmaid <hi>Martha,</hi> whoſe houſe was continually c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbred and moleſted by vehement throw<g ref="char:EOLhyphen"/>ing of ſtones about it, ſometimes to the breaking of the Windows, ſometimes up and down the Chimneys and other places of the houſe, not only within, but without in the Air, to the great prejudice of ſundry perſons which paſſed by.</p>
+            <p>Inſomuch that through the long continuance thereof, the neighbours waxed angry, and raiſed the Country to know the miſtery thereof.</p>
+            <p>Hereupon ſeverall eminent Miniſters Aſſembled together at the next houſe, to the ſaid Widdow, to pray for the al<g ref="char:EOLhyphen"/>laying of the ſaid ſtones, and withall ſent for the ſaid Wid<g ref="char:EOLhyphen"/>dow, with her ſaid Kinſwoman to pray with them.</p>
+            <p>And it ſo ſell out, that whilſt they ſo prayed together by long continuance the ſtones throwing ceaſed, but immedi<g ref="char:EOLhyphen"/>ately after they deſiſted, they began again as furious as ever.</p>
+            <p>This continuing in ſo ſtrange a manner, one Mr. <hi>Page</hi> 2 Chirurgion, who watching an opportunity, betook himſelf to a private Corner which he thought convenient for that purpoſe, and looking in at the Window, he diſcovered the Maid ſpinning, and as ſhe turn'd the Wheel, ſhe flung now and than a ſtone at the Window, ſome up the Chimney, ſome at thoſe as paſs'd by, which ſhe ſtill continued as formerly.</p>
+            <p>Mr. <hi>Page</hi> having made this diſcovery, got a Warrant, ap<g ref="char:EOLhyphen"/>prehended her, and brought her before a Magiſtrate, by whom ſhe was committed upon complaint of the Neigh<g ref="char:EOLhyphen"/>bours who had been diſturbed by her.</p>
+            <p>The Country round about gathered together, and coming to the Mayor of <hi>Shrewſbury,</hi> made a great complaint a<g ref="char:EOLhyphen"/>gainſt
+<pb n="5" facs="tcp:55777:4"/>her, declaring how they were daily affronted by her flinging of ſtones as they paſſed by.</p>
+            <p>Upon their complaint, according to his Order ſhe was brought before him, and being ſtrictly examined, ſhe con<g ref="char:EOLhyphen"/>feſſed that ſhe had done all that they had ſaid, and withall that ſhe could not help it, for ſome evil ſpirit had perſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed her, and ſhe muſt in ſpite of her teeth do it, for ſhe was compel'd to it by ſome means or other, but how, ſhe knew not, but ſo long as ſhe was in that houſe it would continue ſo.</p>
+            <p>She likewiſe acknowledged, that at any time when ſhe went forth, ſhe took an opportunity to fill her lap full of ſtones, and that when ſhe came in, ſhe fell to her labour, and ſo diſpoſed of them as formerly, for ſhe was daily vexed with ſome Spirit; who aggravated her to do it, and ſhe could not be in peace till ſhe had perform'd it.</p>
+            <p>The Mayor upon this ſtrict examination, conſidering of the hanious offence committed by her, ordered that ſhe ſhould be whipt for her obſtinacy, which was performed ac<g ref="char:EOLhyphen"/>cordingly, after which ſhe was acquitted.</p>
+            <p>The truth of this ſtory is ſo really ſet down, that it will be at any time averred by ſeverall Gentlemen of quality in <hi>Shropſhire,</hi> and alſo by Mr. <hi>Aſhley</hi> a Gentleman, living near Cripplegate in <hi>London.</hi>
+            </p>
+            <p>Thus have you the true account of this wicked &amp; diveliſh deſign, with a ſufficient juſtification of the ſame, which may give ſatisfaction of the truth thereof to every ingenuous Reader.</p>
+            <p>At Chelensford in <hi>Eſſex</hi> the preſent Aſſiſes held there, was a man try'd for murthering his Wife who was diſcover<g ref="char:EOLhyphen"/>ed by the Crowner of <hi>Colcheſter</hi> in manner following, <hi>viz.</hi>
+            </p>
+            <p>The day being come wherein he intended to bury the dead body of his Murthered Wife, he aske the people, whether the Crowner had been there or no? they anſwering he had
+<pb n="6" facs="tcp:55777:5"/>not as yet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Whereupon as be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent after the Corps he ſaw the C<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>er, and threatned to arreſt him for not looking af<g ref="char:EOLhyphen"/>ter his charge, upon which the Crowner cauſed the Coffin to be open'd, and found that ſhe was murthered in a moſt barbarous manner; her private parts being ſow'd up, and an <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead, and her mouth <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>opt, all which he confeſſed at his examination, received <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entence for the fact, and is before this time executed for this bloody and inhu<g ref="char:EOLhyphen"/>mane murther.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
